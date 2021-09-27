@@ -1,0 +1,24 @@
+{
+  "name": "computation-sandbox",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battila7/computation-sandbox.git"
+  },
+  "keywords": [],
+  "author": "Attila Bagossy <bagossyattila@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/battila7/computation-sandbox/issues"
+  },
+  "homepage": "https://github.com/battila7/computation-sandbox#readme",
+  "devDependencies": {
+    "typescript": "4.4.3",
+    "vite": "2.5.10"
+  }
+}

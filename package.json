@@ -1,0 +1,22 @@
+{
+  "name": "computation-sandbox-root",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Online simulator for models of computation, including Reaction Systems and P Systems.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battila7/computation-sandbox.git"
+  },
+  "keywords": [],
+  "author": "Attila Bagossy <bagossyattila@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/battila7/computation-sandbox/issues"
+  },
+  "homepage": "https://github.com/battila7/computation-sandbox#readme",
+  "devDependencies": {
+    "@commitlint/cli": "13.1.0",
+    "@commitlint/config-conventional": "13.1.0",
+    "husky": "7.0.2"
+  }
+}

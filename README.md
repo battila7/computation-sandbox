@@ -58,4 +58,4 @@ Contributions, regardless of their type, are always welcome in mvnx! Take a look
 
 ## License
 
-Licensed under the [Apache License 2.0](LICENSE).
+Licensed under [The MIT License](LICENSE).
